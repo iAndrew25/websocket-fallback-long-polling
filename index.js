@@ -6,4 +6,4 @@ socketSubscribe.subscribe('index.js', {
 	WEB_SOCKET: () => console.log('WEB_SOCKET')
 });
 
-connect(URL);
+connect('URL');
